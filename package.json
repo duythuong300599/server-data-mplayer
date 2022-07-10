@@ -1,0 +1,15 @@
+{
+  "name": "jsonsever",
+  "version": "1.0.0",
+  "description": "server data mplayer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duy Thuong",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
